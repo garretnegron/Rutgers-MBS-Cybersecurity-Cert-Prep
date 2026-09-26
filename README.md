@@ -7,12 +7,11 @@
 A structured collection of study notes, assignments, glossaries, and reference materials from the **Rutgers MBS Cybersecurity Certification Prep Program**.
 
 This program combines coursework from the **Google Cybersecurity Professional Certificate** with **CompTIA Security+** concepts and exam preparation, culminating in the **CompTIA Security+ certification exam**.
-
->[!CAUTION]
->This repository contains personal study materials, notes, summaries, glossaries, and assignments created while completing the Rutgers MBS Cybersecurity Certification Prep Program. It is intended for educational and exam preparation purposes. **DO NOT PLAGARIZE THIS MATERIAL FOR COMPLETING COLLEGE COURSEWORK.** This is made public to show evidence of my Cybersecurity understanding, but also to act as a supplemental **guide** for others trying to pass the CompTIA Security+ Exam. 
-
-
 </div>
+
+> [!CAUTION]
+> This repository contains personal study materials, notes, summaries, glossaries, and assignments created while completing the Rutgers MBS Cybersecurity Certification Prep Program. It is intended for educational and exam preparation purposes. **DO NOT PLAGARIZE THIS MATERIAL FOR COMPLETING COLLEGE COURSEWORK.** This is made public to show evidence of my Cybersecurity understanding, but also to act as a supplemental **guide** for others trying to pass the CompTIA Security+ Exam. 
+
 
 ---
 
